@@ -1,0 +1,1 @@
+delete from prefeitos where id = 8; 
