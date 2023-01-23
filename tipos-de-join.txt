@@ -1,0 +1,7 @@
+TIPOS DE JOIN
+
+Inner join é interseção dos diagramas de Venn
+Outer join são as partes exclusivas a cada grupo do diagrama de Venn. A palavra Outer é opcional no SQL. 
+Left join é a união da interseção entre os diagramas + a parte exclusiva do diagrama da esquerda
+Right join é o “contrário” do left join
+Full join é a soma de todos os diagramas de Venn. Esse tipo de consulta não é suportada pelo MySQL. 
